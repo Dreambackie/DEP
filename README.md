@@ -16,3 +16,10 @@ Create a Program that can Compress and Decompress a File.
 - Write the resulting data into a new file with a ".rle" extension for compressed and ".decompressed" extension for Decoded File and Output this file.
 
 Libraries used: iostream, fstream and string.
+
+### Task 4:
+Create a basic web server that can handle multiple client requests simultaneously.
+- Sets up an HTTP server listening on port 8080.
+- Reads client requests and serves an “index.html” file if found.
+- Responds with either a 200 OK or a 404 Not Found status.
+- Uses the Winsock library and handles client connections in separate threads.
