@@ -1,6 +1,12 @@
 # DEP
 C++ Internship DEP (Digital Empowerment Pakistan) Task submission Repo.
 
+### Task 1:
+Create a Weather Forcasting application.
+- Create classes for Location and WeatherVariable.
+- Fetch weather forecast data using an API.
+- Enable offline mode with locally stored data and cloud integration.
+
 ### Task 2:
 Create a Contact management system that.
 - adds contacts to contacts list.
